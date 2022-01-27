@@ -1,1 +1,3 @@
 # JavaReview
+
+GIT is COOL
